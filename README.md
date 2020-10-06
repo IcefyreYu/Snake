@@ -1,2 +1,2 @@
 # Snake
-PYTHON贪吃蛇
+PYTHON 贪吃蛇
